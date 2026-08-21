@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Curated Luxury Journeys",
+  "description": "Discover extraordinary destinations, curated stays, unique experiences, and thoughtfully designed travel packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
